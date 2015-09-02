@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1413445046 source:c:\users\sharmistha\desktop\private jet\main.c
+	<windows.h>
+	<GL/glaux.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<string.h>
+
+1413866871 source:c:\users\sharmistha\desktop\project\cse-414\project\3d project\private jet\main.c
+	<windows.h>
+	<GL/glaux.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1413866871 source:c:\users\sharmistha\desktop\project\content\cse-414\project\3d project\private jet\main.c
+	<windows.h>
+	<GL/glaux.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
